@@ -1,0 +1,16 @@
+$GetCurrent
+$Recycle.Bin
+Arquivos de Programas
+Documents and Settings
+Intel
+Microsoft
+MSOCache
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows
+Windows10Upgrade
